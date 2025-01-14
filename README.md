@@ -218,7 +218,7 @@ This project was developed to demonstrate advanced distributed systems concepts 
 ## 📞 Contact
 
 For questions and feedback:
-- Email: mustonej@oregonstate.edu
+- Email: jack@cookietowncookies.com
 - Website: jackmustonen.com
 - GitHub: [Your GitHub Profile](https://github.com/APinchofPepper)
 
