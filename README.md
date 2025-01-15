@@ -220,6 +220,6 @@ This project was developed to demonstrate advanced distributed systems concepts 
 For questions and feedback:
 - Email: jack@cookietowncookies.com
 - Website: jackmustonen.com
-- GitHub: [Your GitHub Profile](https://github.com/APinchofPepper)
+- GitHub: [APinchofPepper](https://github.com/APinchofPepper)
 
 ---
